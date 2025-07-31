@@ -28,7 +28,7 @@ add/remove college updates, and view contact messages;
 
 ->Students can view the latest college updates;
 
-->Admin can update the marks of any student for any semester;
+->Admin can update the marks of any student for any semester if they want;
 
 ->Admin can view messages sent by users through the contact form;
 
