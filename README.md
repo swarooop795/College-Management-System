@@ -57,7 +57,7 @@ to dynamically generate HTML content;
 
 Admin username : nairy , Password : nairy123
 
-Student Credential : USN1 to USN20 , Password : pass1 to pass20 (USN and pass both should be match)
+Student Credential : username : USN1 to USN20 , Password : pass1 to pass20 (USN and pass both should be match)
 
 To access this project : python app.py
 
