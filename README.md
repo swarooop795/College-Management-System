@@ -57,7 +57,10 @@ to dynamically generate HTML content;
 
 Admin username : nairy , Password : nairy123
 
-Student username : USN1 to USN20 , Password : pass1 to pass20 (USN and pass number should be match)
+Student username : USN1 to USN20 , Password : pass1 to pass20 
+
+Note:
+USN and pass number should be match for Login 
 
 # Procedure to Run
 
