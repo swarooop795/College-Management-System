@@ -51,16 +51,7 @@ using Flask, HTML, CSS, and Python.
 required careful handling of data structures and Flask templates;
 
 ->Solution: Used Python dictionaries to store data and Flask's render_template_string 
-to dynamically generate HTML content;
-
-# Students and Admin Credentials
-
-Admin username : nairy , Password : nairy123
-
-Student username : USN1 to USN20 , Password : pass1 to pass20 
-
-Note:
-USN and pass number should be match for Login 
+to dynamically generate HTML content; 
 
 # Procedure to Run
 
